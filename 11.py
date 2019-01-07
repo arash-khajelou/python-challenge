@@ -1,6 +1,6 @@
 # http://www.pythonchallenge.com/pc/return/5808.html
 
-from PIL import Image, ImageDraw
+from PIL import Image
 
 file_address = 'assets/cave.jpg'
 img = Image.open(file_address)
