@@ -1,3 +1,5 @@
+# http://www.pythonchallenge.com/pc/return/romance.html
+
 import bz2
 import re
 from urllib.parse import unquote_to_bytes
