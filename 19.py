@@ -28,3 +28,5 @@ w_out.writeframes(frames)
 w_out.close()
 w_in.close()
 
+# the sound contains IDIOT word.
+
